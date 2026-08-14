@@ -1,0 +1,8 @@
+# This is a reverse-engineering exercise that reproduces sand.ai's homepage for
+# learning purposes — it is not the real site and is not affiliated with Sand.ai.
+# Keeping it out of search indexes so a visual replica of a real company's
+# homepage cannot be reached by someone searching for the original.
+#
+# Remove this file if you want the deployment indexed.
+User-agent: *
+Disallow: /
